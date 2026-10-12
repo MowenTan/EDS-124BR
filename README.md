@@ -7,4 +7,6 @@
 
 
    ## Week 2
+   - [Show What You Know: Write and Explain A Program](https://youtu.be/NcafccpZal0)
    - [Teaching Programming Portfolio - Lesson Plan](https://youtu.be/kmnGUVnU1BY)
+   
