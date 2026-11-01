@@ -16,3 +16,6 @@
 
    ## Week 4
    - [Draw shape: triangle, square, pentagon](https://youtu.be/oQz-o8zNq14)
+
+   ## Week 5
+   - [Show What You Know: Write and Explain A Program](https://youtu.be/HT6OZwXkhYk)
