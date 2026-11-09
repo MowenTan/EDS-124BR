@@ -19,3 +19,6 @@
 
    ## Week 5
    - [Show What You Know: Write and Explain A Program](https://youtu.be/HT6OZwXkhYk)
+
+   ## Week 6
+   - [Target!!](https://www.youtube.com/watch?v=pvT4eaQgeWE)
