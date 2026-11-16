@@ -22,3 +22,6 @@
 
    ## Week 6
    - [Target!!](https://www.youtube.com/watch?v=pvT4eaQgeWE)
+
+   ## Week 7
+   - [nested if/else](https://youtu.be/ARBqDbUP5k0)
