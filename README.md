@@ -27,4 +27,4 @@
    - [nested if/else](https://youtu.be/ARBqDbUP5k0)
 
    ## Week 8
-   - [treasure finding)(https://youtu.be/zpFX2zSITUQ)
+   - [treasure finding](https://youtu.be/zpFX2zSITUQ)
